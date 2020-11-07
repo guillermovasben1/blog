@@ -1,2 +1,2 @@
 # blog
-My primer blog con codigo
+Blog con codigo, las imagenes en el repositorio son imagenes libres de diferentes sitios web.
