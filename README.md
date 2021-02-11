@@ -1,2 +1,2 @@
 # blog
-Blog con codigo, las imagenes en el repositorio son imagenes libres de diferentes sitios web.
+This is mi firs code , I try  use images  of sites web sites free and with  free license 
